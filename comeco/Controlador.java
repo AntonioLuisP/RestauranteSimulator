@@ -77,7 +77,7 @@ public class Controlador implements Runnable, Status, ConstantesEntrada {
     // metodos da interface
     @Override
     public void existir() {
-        System.out.println("Já vou abrir o Restaurante");
+        System.out.println("Eu sou o gerente e já vou abrir o Restaurante");
     }
 
     @Override
